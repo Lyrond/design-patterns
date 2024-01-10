@@ -1,5 +1,5 @@
-package com.epam.rd.autocode;
+    package com.epam.rd.autocode;
 
-public interface Named {
-    String name();
-}
+    public interface Named {
+        String name();
+    }
